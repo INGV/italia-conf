@@ -3,8 +3,7 @@ projects:
     description: |
       Principi della Politica dei Dati dell'IStituto Nazionale di Geofisica e Vulcanologia (INGV)
     documents:
-      - project-document-doc
-      - another-project-document-doc
+      - ingv-principipoliticadati-docs
     short_name: PDP
     website: https://www.ingv.it
     tags:
