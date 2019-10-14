@@ -1,0 +1,13 @@
+projects:
+  - name: Principi della Politica dei Dati dell'INGV
+    description: |
+      Principi della Politica dei Dati dell'IStituto Nazionale di Geofisica e Vulcanologia (INGV)
+    documents:
+      - project-document-doc
+      - another-project-document-doc
+    short_name: PDP
+    website: https://www.ingv.it
+    tags:
+      - digital
+      - INGV
+      - politica dei dati
