@@ -6,6 +6,9 @@ projects:
       - ingv-principi-della-politica-dei-dati-docs
       - ingv-accesso-aperto-ai-contributi-della-ricerca-docs
       - ingv-attuazione-della-politica-dei-dati-docs
+      - ingv-data-policy-principles-docs
+      - ingv-implementation-of-the-ingv-data-policy-docs
+
     short_name: accessoApertoContributi
     website: https://www.ingv.it
     tags:
