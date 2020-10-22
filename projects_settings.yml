@@ -1,7 +1,7 @@
 projects:
   - name: Politica dei Dati dell'INGV
     description: |
-      Politica dei Dati dell'IStituto Nazionale di Geofisica e Vulcanologia (INGV)
+      Politica dei Dati dell'Istituto Nazionale di Geofisica e Vulcanologia (INGV)
     documents:
       - ingv-principi-della-politica-dei-dati-docs
       - ingv-accesso-aperto-ai-contributi-della-ricerca-docs
@@ -9,6 +9,7 @@ projects:
       - ingv-implementation-of-the-ingv-data-policy-docs
       - ingv-openaccess-to-scientific-contributions-docs
       - ingv-data-policy-principles-docs
+      - test-docs-italia
 
     short_name: accessoApertoContributi
     website: https://www.ingv.it
